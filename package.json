@@ -1,0 +1,12 @@
+{
+  "name": "react-descision-8ball-app1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/subliminalvisions/react-decision-8ball-app.git",
+  "author": "stephen harris <subliminalvisions@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
